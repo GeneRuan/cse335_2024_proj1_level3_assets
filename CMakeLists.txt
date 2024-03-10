@@ -1,1 +1,1 @@
-Project(cse335_2024_proj1_level3_assets-resources)
+Project(cse335_2024_proj1_level3_assets)
