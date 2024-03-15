@@ -1,0 +1,11 @@
+Chips Ahoyeth by Seeks Stuff:
+
+Backing track without the primary sound effects.
+
+Chips Ahoyeth Instrumental - FNF_ Seek's Cool Deltarune Mod.mp3    152 bpm
+
+
+snd_hurt1_ch1.wav:
+
+Sound effect of getting damaged from Deltarune, Chapter 1. 
+Used to indicate hitting Danger Notes.
